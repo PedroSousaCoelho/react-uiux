@@ -1,6 +1,4 @@
-import React from 'react'
-
-import { Article, Brand, CTA, Feature, Navbar} from './components'
+import React from 'react';
 
 const App = () => {
   return (
